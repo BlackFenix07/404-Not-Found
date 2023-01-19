@@ -1,0 +1,49 @@
+body {
+  margin: 40px auto 24px;
+}
+
+header h1 {
+  padding-left: 77px;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 120px;
+  margin-top: 200px;
+}
+
+main img {
+  margin: 0;
+  width: 539px;
+  height: 447px;
+}
+
+main .info {
+  margin: 0;
+}
+
+main h2 {
+  margin-top: 0;
+  width: 586px;
+  height: 190px;
+  font-size: 64px;
+  line-height: 94px;
+}
+
+main p {
+  margin-top: 36px;
+  width: 381px;
+  height: 108px;
+  font-size: 23px;
+  line-height: 35px;
+}
+
+main button {
+  margin-top: 64px;
+}
+
+footer p {
+  margin: 308px auto 0;
+}
